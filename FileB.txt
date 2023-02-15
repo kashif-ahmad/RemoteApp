@@ -1,1 +1,2 @@
 This is file B
+Chnages made to File B
